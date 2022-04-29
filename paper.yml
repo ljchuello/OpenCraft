@@ -14,8 +14,8 @@ verbose: false
 messages:
   kick:
     connection-throttle: Connection throttled! Please wait before reconnecting.
-    flying-player: Flying is not enabled on this server
-    flying-vehicle: Flying is not enabled on this server
+    flying-player: No puedes volar en este servidor. No admitimos a SuperMan
+    flying-vehicle: No puedes volar en este servidor. No admitimos a SuperMan
     authentication-servers-down: ''
   no-permission: '&cI''m sorry, but you do not have permission to perform this command.
     Please contact the server administrators if you believe that this is in error.'

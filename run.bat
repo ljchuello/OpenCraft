@@ -1,0 +1,1 @@
+java -jar paper-1.18.2-312.jar nogui

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1651297812219
+  login: 1651297569046
+money: '0'
+last-account-name: LJChuello
+logoutlocation:
+  world: 68c38579-e59a-4593-aa5f-d64cbe396eea
+  world-name: world
+  x: -42.48621895142951
+  y: 77.0
+  z: -2.464000062446602
+  yaw: 107.39988708496094
+  pitch: 16.65004539489746

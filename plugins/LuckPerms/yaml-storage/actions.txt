@@ -1,0 +1,8 @@
+{"timestamp":1651297640,"source":{"uniqueId":"965f3bdf-7172-38df-a962-eb12e66612ab","name":"LJChuello"},"target":{"type":"GROUP","name":"miembro"},"description":"create"}
+{"timestamp":1651297642,"source":{"uniqueId":"965f3bdf-7172-38df-a962-eb12e66612ab","name":"LJChuello"},"target":{"type":"GROUP","name":"iron"},"description":"create"}
+{"timestamp":1651297645,"source":{"uniqueId":"965f3bdf-7172-38df-a962-eb12e66612ab","name":"LJChuello"},"target":{"type":"GROUP","name":"gold"},"description":"create"}
+{"timestamp":1651297648,"source":{"uniqueId":"965f3bdf-7172-38df-a962-eb12e66612ab","name":"LJChuello"},"target":{"type":"GROUP","name":"vip"},"description":"create"}
+{"timestamp":1651297759,"source":{"uniqueId":"965f3bdf-7172-38df-a962-eb12e66612ab","name":"LJChuello"},"target":{"type":"GROUP","name":"miembro"},"description":"permission set nte.miembro true"}
+{"timestamp":1651297772,"source":{"uniqueId":"965f3bdf-7172-38df-a962-eb12e66612ab","name":"LJChuello"},"target":{"type":"GROUP","name":"iron"},"description":"permission set nte.iron true"}
+{"timestamp":1651297782,"source":{"uniqueId":"965f3bdf-7172-38df-a962-eb12e66612ab","name":"LJChuello"},"target":{"type":"GROUP","name":"gold"},"description":"permission set nte.gold true"}
+{"timestamp":1651297792,"source":{"uniqueId":"965f3bdf-7172-38df-a962-eb12e66612ab","name":"LJChuello"},"target":{"type":"GROUP","name":"vip"},"description":"permission set nte.vip true"}

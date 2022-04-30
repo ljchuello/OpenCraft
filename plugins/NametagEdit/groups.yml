@@ -1,0 +1,31 @@
+Groups:
+  Admin:
+    Permission: nte.admin
+    Prefix: '&c'
+    Suffix: '&f'
+    SortPriority: 1
+  Moderator:
+    Permission: nte.moderator
+    Prefix: '&2'
+    Suffix: '&f'
+    SortPriority: 2
+  miembro:
+    Permission: nte.miembro
+    Prefix: ''
+    Suffix: ''
+    SortPriority: -1
+  iron:
+    Permission: nte.iron
+    Prefix: ''
+    Suffix: ''
+    SortPriority: -1
+  gold:
+    Permission: nte.gold
+    Prefix: ''
+    Suffix: ''
+    SortPriority: -1
+  vip:
+    Permission: nte.vip
+    Prefix: ''
+    Suffix: ''
+    SortPriority: -1

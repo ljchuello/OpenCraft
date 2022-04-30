@@ -11,21 +11,21 @@ Groups:
     SortPriority: 2
   miembro:
     Permission: nte.miembro
-    Prefix: '(user) '
+    Prefix: '&f(user) '
     Suffix: ''
     SortPriority: -1
   iron:
     Permission: nte.iron
-    Prefix: '(IRON) '
+    Prefix: '&l&7(IRON)&r&f '
     Suffix: ''
     SortPriority: -1
   gold:
     Permission: nte.gold
-    Prefix: '<GOLD> '
+    Prefix: '&6&l<GOLD>&r&f '
     Suffix: ''
     SortPriority: -1
   vip:
     Permission: nte.vip
-    Prefix: '[VIP] '
+    Prefix: '&l&5&n[VIP]&r&l&f '
     Suffix: ''
     SortPriority: -1
